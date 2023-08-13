@@ -10,6 +10,8 @@ function App() {
     <>
     <div>
       Hello my funs i'm here to teach you github collobrations
+      Hello my funs i'm here to teach you github collobrations
+      Hello my funs i'm here to teach you github collobrations
     </div>
     </>
   )
